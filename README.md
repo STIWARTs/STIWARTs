@@ -18,9 +18,17 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center"> 
+  <img 
+    src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=STIWARTs&show_icons=true&count_private=true&theme=transparent&role=OWNER,COLLABORATOR&show=reviews"
+    alt="My Github stats"
+    height="200"
+  />
+  <img 
+    src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=STIWARTs&show_icons=true&theme=transparent&layout=donut&hide=javascript,java,html,css,vhdl,scss&show=review&role=OWNER,COLLABORATOR"
+    alt="My Language stats"
+    height="200"
+  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

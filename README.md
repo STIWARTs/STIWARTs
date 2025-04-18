@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stiwart</h1>
-
+<h2 align="center"> Passionate student MERN stack developer with a love for clean code and innovative solutions. Exploring new tech and building meaningful </h3><br>
 
 <h2 style="display: inline-block" align="center">Technologies That I Use 👨🏻‍💻</h2>
 <!--tech stack icons-->

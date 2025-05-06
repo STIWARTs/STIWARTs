@@ -15,6 +15,9 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&layout=compact&theme=tokyonight&hide=less" />
 </div>
 
+![GitHub Stats](https://raw.githubusercontent.com/your-username/github-stats/main/generated/github-stats.svg)
+
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 

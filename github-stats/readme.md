@@ -1,1 +1,0 @@
-GitHub Stats Image Generator"

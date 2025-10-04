@@ -6,28 +6,33 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,nextjs,mongodb,express,react,nodejs,bootstrap,tailwind,firebase,mysql,figma,blender,netlify,vercel,solidity,linux,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,nextjs,mongodb,express,react,nodejs,bootstrap,tailwind,firebase,mysql,figma,blender,netlify,vercel,solidity,linux,docker&perline=10" />
   </a>
 </p>
 
 
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&layout=compact&theme=tokyonight&hide=less" alt="Top Languages" />
-</div>
-<!--
-![GitHub Stats](https://raw.githubusercontent.com/STIWARTs/github-stats/main/generated/github-stats.svg)
+</div> -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=STIWARTs&theme=shadow&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+--> 
+
+
+
+<h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=STIWARTs&theme=shadow&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
--->
-
-
-
-
+<br>
 
 
 

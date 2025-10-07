@@ -28,7 +28,7 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true" /><br/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=STIWARTs&theme=shadow&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>

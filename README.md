@@ -39,7 +39,10 @@
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true" /><br/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=STIWARTs&theme=shadow&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?sername=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /> -->
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=STIWARTs&style=flat&color=blue&label=PROFILE+VIEWS&abbreviated=true" alt="PiyerX Profile Views Badge" />
 </p>
 <br>
 

@@ -1,11 +1,5 @@
 
-
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Stiwart</h1>
 
@@ -19,34 +13,19 @@
   </a>
 </p>
 
-
-<!-- <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&layout=compact&theme=tokyonight&hide=less" alt="Top Languages" />
-</div> -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=STIWARTs&theme=shadow&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
---> 
-
-
-
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true" /><br/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=STIWARTs&theme=shadow&hide_border=true" /><br/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?sername=STIWARTs&theme=shadow&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /> -->
+  <!-- <a href="https://github.com/STIWARTs/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STIWARTs&layout=compact&theme=tokyonight" /></a>
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=STIWARTs&theme=tokyonight" alt="STIWARTs" /> -->
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=STIWARTs&style=flat&color=blue&label=PROFILE+VIEWS&abbreviated=true" alt="PiyerX Profile Views Badge" />
 </p>
 <br>
-
-
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -56,6 +35,18 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stiwartsaxena@gmail.com)
   
 </div>
+
+<!-- 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/STIWARTs/STIWARTs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/STIWARTs/STIWARTs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+-->
 
 <div align="center">
   <details><summary></summary>

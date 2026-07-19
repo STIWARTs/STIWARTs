@@ -24,7 +24,7 @@ I'm a Computer Science undergrad and full-stack developer who loves turning idea
 ## Achievements
 
 ### NASA International Space Apps Challenge 2025 — Winner, Global Round Nominee
-CleanAirSight, a real-time air quality monitoring and forecasting platform, developed for the NIT Raipur local event and nominated to represent the institute at the global round. Combines NASA TEMPO satellite data, ground sensor readings, and Azure Machine Learning to deliver location-specific AQI forecasts and health recommendations.
+CleanAirSight, a real-time air quality monitoring and forecasting platform covering North America, developed for the NIT Raipur local event and nominated to represent the institute at the global round. Combines NASA TEMPO satellite data, ground sensor readings (OpenAQ, EPA AirNow), and weather data with an XGBoost-based ML pipeline delivering 6–72 hour AQI forecasts. Provides pollutant-level breakdowns (NO2, O3, HCHO, PM2.5, PM10) and personalized health recommendations for vulnerable populations, urban planners, and researchers.
 [Repository](https://github.com/STIWARTs/CleanAirSight)
 
 ### NASA International Space Apps Challenge 2024 — National Round Winner, Top 10 Nominee (India)
@@ -32,46 +32,46 @@ Neotarium, an interactive 3D orrery web application visualizing the Solar System
 [Repository](https://github.com/STIWARTs/Neotarium.co)
 
 ### UIDAI Data Hackathon 2026 — Winner
-A three-layer predictive gap-analysis engine for mandatory Aadhaar biometric updates, built as a two-person team against the standard six-person cap. Combined LSTM forecasting with K-Means clustering to map service deserts and forecast demand-crunch periods across roughly five million records.
+A three-layer predictive gap-analysis engine for mandatory Aadhaar biometric updates, built against the standard six-person team cap. Combines cohort tracking, K-Means clustering for service-desert identification, and LSTM-based forecasting of demand-crunch periods across roughly five million records. A deep-learning extension adds autoencoder anomaly detection and SHAP-based explainability for district-level classification.
 [Repository](https://github.com/STIWARTs/UIDAI_DH_2k26)
 
 ### Hack-a-Sol 4.0 — Web3 Track Winner
-Adhikar, a decentralized land registry addressing tribal land rights, built in 24 hours for IIIT Naya Raipur as Team Hashmap (with Yash Singh and Piyush Verma). Replaced a single-admin approval model with a five-member Gram Sabha community council requiring five independent on-chain signatures — a "5-of-5" multi-signature model — before a land claim is written to the Ethereum blockchain. Combines a React/Node.js/MongoDB MERN stack with Solidity smart contracts (Hardhat, Sepolia testnet), AI-OCR document verification, and a Telegram bot for low-bandwidth public verification.
+Adhikar, a decentralized land registry addressing tribal land rights, built in 24 hours for IIIT Naya Raipur. Replaces a single-admin approval model with a five-member Gram Sabha community council requiring five independent on-chain signatures before a land claim is written to the Ethereum blockchain. Combines a MERN stack with Solidity smart contracts (Hardhat, Sepolia testnet), AI-OCR document verification, and a Telegram bot for low-bandwidth public verification.
 [Devfolio](https://devfolio.co/projects/adhikar-e17b) · [Live site](https://adhikar-land-registry.vercel.app) · [Repository](https://github.com/piyerx/hashmap_hackasol25)
 
 ### HackBIOS 2K25 — Second Position
-HealthScan, a privacy-first early-screening platform combining custom hardware with edge AI models to make preliminary health diagnostics accessible without expensive lab infrastructure.
+HealthScan, a privacy-first, browser-based health screening platform running multi-modal tests — voice, motor/tremor, eye and cognition, memory, cardiovascular, mental health, and vision/hearing — entirely on-device. Integrates with India's ABDM health-records infrastructure and Google Fit for activity and biometric data, enabling early screening without dedicated lab hardware.
 [Repository](https://github.com/STIWARTs/HealthScan)
 
 ### AI for Bharat Hackathon 2026 — Finalist, Student Track (Prototype Round)
-AutoDev-AI, an AI-powered codebase onboarding platform generating architecture maps, setup guides, code explanations, and walkthroughs to help new developers understand any project quickly, in their own language. Built as Team HASHMAP for the Student Track under the problem statement "AI for Learning & Developer Productivity," and shortlisted for the final prototype round.
+AutoDev-AI, an AI-powered codebase onboarding platform generating animated architecture maps, AI setup guides, and guided walkthroughs to help new developers understand any project quickly, in their own language. Supports multi-language code explanations (Hindi, Tamil, Telugu, and more), a codebase Q&A assistant, and a learning-progress dashboard. Shortlisted for the final prototype round under "AI for Learning & Developer Productivity."
 [Live site](https://autodev-bharat.vercel.app/) · [Repository](https://github.com/STIWARTs/AutoDev-AI)
 
 ### Navonmesh 3.0 — Participant
-SSIPMT Raipur, November 2025. WastiFY, a smart circular waste-management system proposed for a national-level hackathon. IoT-enabled smart bins segregate wet and dry waste at city locations and send fill-level alerts, triggering optimized collection routes to an automated recycling centre where AI and camera-based sorting separates dry waste into metals, plastics, glass, and e-waste before routing it to certified recycling authorities. Emphasized real-time verification for accountability and a reward system for segregation compliance.
+SSIPMT Raipur, November 2025. WastiFY, a smart waste-management platform built for Raipur Municipal Corporation under the Swachh Bharat Mission, combining a citizen-facing portal — GPS-tagged waste reporting, municipal verification, and a reward-points/leaderboard system — with a working hardware prototype demonstrating IoT bin sensors and camera/robotic-arm-based waste sorting.
 
-### Prompt, Train, Party — Hack Days (Major League Hacking) 2025
-Healix, an AI health companion built for the MLH Hack Days event, using Google Gemini for food scanning, epigenetic report analysis, and personalized wellness coaching.
+### MLH Gemini Build Hackathon (Prompt, Train, Party — Hack Days), Major League Hacking — 2026
+Healix, an AI health and wellness companion using Google Gemini 1.5 Pro for AI food-photo nutrition scanning, epigenetic health-report analysis, habit and medication tracking, and a 24/7 AI wellness coach. Built on the Google Cloud stack — Firebase, Vertex AI, Cloud Functions, and Antigravity — for real-time, personalized health insights.
 [Repository](https://github.com/STIWARTs/Healix)
 
 ### Google Solution Challenge 2026 — Prototype
-NGO Synergy, a crisis-response platform converting raw field reports — photos, PDFs, free text — into verified, prioritized incidents, then matching and dispatching the appropriate volunteers.
+NGO Synergy, a crisis-response platform converting raw field reports — photos, PDFs, free text — into verified, prioritized incidents via Document AI OCR and Gemini-based structuring. Ranks needs by urgency and impact, then matches and dispatches volunteers based on skills, distance, and availability, with real-time mapping and a human-in-the-loop verification workflow.
 [Repository](https://github.com/STIWARTs/NGOSynergy-GSC26)
 
 ### Flipkart GRiD 2026 — Project Submission
-GitHappens, a traffic demand prediction system built for Flipkart's GRiD hackathon.
+GitHappens, a two-stage ensemble combining a 10-seed LightGBM model with a Seq2Seq Transformer for citywide traffic-demand forecasting at (geohash, 15-minute slot) granularity. Uses Bayesian-smoothed target encodings and heavy regularization to handle sparse, single-occurrence training cells, scoring 91.76/100 on the public leaderboard.
 [Repository](https://github.com/STIWARTs/GitHappens)
 
-### HACKHAZARDS '25 (The NAMESPACE Community) — Top 100 of 210+ teams
-Collie, an AI-powered fashion shopping platform built as Team WEB4 (with Jinisha Bose, Anagha Kashyap, and Mayank Dindoire) across a 210-hour hack window. Combines a Groq-based AI recommendation assistant, Firebase authentication, virtual try-on, and native crypto checkout via Web3Modal/Wagmi with Base Sepolia support for on-chain payments and NFT collectibles. Built on Next.js, TypeScript, Material UI, and MongoDB, with product/session data in Firestore.
+### HACKHAZARDS '25 (The NAMESPACE Community) — Top 100 of 2,100+ teams
+Collie, an AI-powered fashion shopping platform built across a 210-hour hack window. Combines a Groq-based AI recommendation assistant, Firebase authentication, virtual try-on, and native crypto checkout via Web3Modal/Wagmi with Base Sepolia support for on-chain payments and NFT collectibles. Built on Next.js, TypeScript, Material UI, and MongoDB, with product/session data in Firestore.
 [Devfolio](https://devfolio.co/projects/collie-30af) · [Live site](https://colliefit.vercel.app) · [Repository](https://github.com/STIWARTs/Collie)
 
 ### World's Largest Hackathon presented by Bolt — Participant
-Dash & Draw, a real-time multiplayer drawing-and-guessing game built with Socket.IO for live canvas sync and scoring.
+Dash & Draw, a real-time multiplayer drawing-and-guessing game inspired by Skribbl.io, built on the MERN stack with Socket.IO for live canvas sync. Supports lobby-based matchmaking, rotating drawer turns with word selection, real-time chat-based guessing, and live scoring across rounds.
 [Repository](https://github.com/STIWARTs/bolt.new) · [Live demo](https://dashndraw.netlify.app)
 
 ### HackIndia 2025 (Spark 4) — Participant
-CryptoCrafters, a decentralized NFT marketplace for minting, buying, and selling NFTs via Ethereum smart contracts.
+CryptoCrafters, a decentralized NFT marketplace built on Ethereum with Solidity smart contracts and Hardhat for development and deployment. Supports minting NFTs with IPFS-stored metadata, buying and selling via ETH, and MetaMask wallet integration, with a dashboard for tracking owned and listed NFTs.
 [Repository](https://github.com/STIWARTs/HackIndia-Spark-4-2025-CryptoCrafters)
 
 ### Smart India Hackathon — Participant, 2024 and 2025
@@ -132,7 +132,6 @@ Supporting tools and internal utilities built during the internship:
 Academic minor/major projects completed as part of the B.Tech coursework at SSTC, Bhilai.
 
 ### The SSTC Students' App
-Semester 3 minor project · Team: Jinisha Bose, Stiwart Saxena, Piyush Verma · Guided by Mrs. Vibha Pandey · Session 2024–25
 
 An Android application consolidating fragmented student-facing services — profile access, class timetables, and university notifications — into a single, full-screen, distraction-free platform. Built in Android Studio (Java, XML) following an MVC architecture, with a WebView integration embedding the university portal, encrypted local storage for saved login credentials, offline caching for timetable access, and a settings overlay for user preferences. Validated through unit, integration, system, and user-acceptance testing with no major bugs reported.
 [Repository](https://github.com/STIWARTs/SSTCStudentApp)
@@ -175,17 +174,17 @@ Recognized by the Google Cloud Security Community for active engagement — answ
 
 **Languages** — Java, Python, JavaScript, TypeScript, C, C++, Solidity, R
 
-**Backend & Data** — PostgreSQL, pgvector, MongoDB, SQLite, Node.js, Express, FastAPI, Redis
+**Backend & Data** — PostgreSQL, pgvector, MongoDB, SQLite, Node.js, Express, firebase, FastAPI, Redis, Vector DB
 
 **Frontend** — React, Next.js, Tailwind CSS, Material UI, Redux
 
 **Cloud & DevOps** — Google Cloud Platform, Azure Machine Learning, Docker, GitHub Actions, CI/CD
 
-**AI & Machine Learning** — Generative AI, Google Gemini, Vertex AI, LSTM, K-Means clustering, Model Context Protocol (MCP)
+**AI & Machine Learning** — Generative AI, Google Gemini, Vertex AI, Model Context Protocol (MCP), RAG, AI Agents, Agentic AI, LangChain, PyTorch, Scikit-learn, llm, claude code
 
 **Web3** — Solidity, Hardhat, Ethereum smart contracts
 
-**Embedded Systems** — Arduino, ESP32, flight controllers (APM, Pixhawk, DJI), sensor integration
+**Embedded Systems** — Arduino, ESP32, Raspberry pi, flight controllers (APM, Pixhawk, DJI), sensor integration
 
 ---
 
@@ -201,7 +200,6 @@ Recognized by the Google Cloud Security Community for active engagement — answ
 - Operating Systems — Cisco, October 2024.
 
 ### Full Stack Web Development, Delta Batch — Apna College
-March 2025 · Credential ID 66b4d31180c9fe2a87035972
 
 Hands-on MERN-stack program covering the full lifecycle from frontend to deployment: React, Tailwind, Material UI, and Redux on the frontend; Node.js, Express, MongoDB, SQL, and authentication on the backend; and Docker, CI/CD, and RESTful APIs across the stack. Projects built during the program:
 

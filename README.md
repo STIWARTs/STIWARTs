@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a Computer Science undergrad and full-stack developer who loves turning ideas into working products fast — whether that's an AI tool, a Web3 app, or a hackathon prototype built in 24 hours. I spend most of my time around applied AI, distributed systems, and rapid prototyping, and I'm always down to jump into the next hackathon or side project. Scroll down for the full story!
+I'm a Computer Science undergrad and full-stack developer who loves turning ideas into working products. I spend most of my time around applied AI, distributed systems, and rapid prototyping, and I'm always down to jump into the next hackathon or side project. Scroll down for the full story!
 
 ---
 

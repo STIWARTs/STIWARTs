@@ -147,7 +147,6 @@ Key features:
 - Real-time analytics and impact tracking
 - Full Admin Panel across six management screens
 - Location-based RVM mapping with interactive maps
-- Light/Dark theme support
 
 [Repository (release)](https://github.com/STIWARTs/RVM-APK/tree/main/release)
 

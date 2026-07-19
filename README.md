@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header" width="100%" />
 
-<div align="center">
+<!-- <div align="center">
 
 ### Hey, I'm Stiwart!
 
@@ -264,7 +264,7 @@ Drone phase: covered the complete workflow of designing, building, and operating
 - Google for Education Certifications — August 2025.
 - NASA Space Apps Challenge 2024 — October 2024.
 
----
+--- -->
 
 ## GitHub Activity <img width="37" src="https://komarev.com/ghpvc/?username=STIWARTs&style=flat&color=blue&label=" alt="Stiwart Profile Views Badge" align="center" />
 

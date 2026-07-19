@@ -244,7 +244,7 @@ Drone phase: covered the complete workflow of designing, building, and operating
 
 ---
 
-## GitHub Activity <img src="https://komarev.com/ghpvc/?username=STIWARTs&style=flat&color=blue&label=" alt="Stiwart Profile Views Badge" align="center" />
+## GitHub Activity <img width="37" src="https://komarev.com/ghpvc/?username=STIWARTs&style=flat&color=blue&label=" alt="Stiwart Profile Views Badge" align="center" />
 
 <p align="center">
   <img width="15%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">

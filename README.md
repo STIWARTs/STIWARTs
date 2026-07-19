@@ -15,7 +15,7 @@ I'm a Computer Science undergrad and full-stack developer who loves turning idea
 - B.Tech, Computer Science — Shri Shankaracharya Technical Campus, Bhilai (2023–2027)
 - SDE Intern — RootVestors (December 2025 – June 2026)
 - Winner — NASA International Space Apps Challenge (2025 & 2024), UIDAI Data Hackathon 2026, Hack-a-Sol 4.0 2025, HackBIOS 2025 (2nd Position), HACKHAZARDS '25 (Top 100)
-- Participated in 15+ hackathons 
+- Participated in 18+ hackathons and innovation programs
 - Author of a peer-reviewed paper on zero-trust middleware for AI tool-use security
 
 
@@ -47,6 +47,10 @@ HealthScan, a privacy-first, browser-based health screening platform running mul
 AutoDev-AI, an AI-powered codebase onboarding platform generating animated architecture maps, AI setup guides, and guided walkthroughs to help new developers understand any project quickly, in their own language. Supports multi-language code explanations (Hindi, Tamil, Telugu, and more), a codebase Q&A assistant, and a learning-progress dashboard. Shortlisted for the final prototype round under "AI for Learning & Developer Productivity."
 [Live site](https://autodev-bharat.vercel.app/) · [Repository](https://github.com/STIWARTs/AutoDev-AI)
 
+### HACKHAZARDS '25 (The NAMESPACE Community) — Top 100 of 2,100+ teams
+Collie, an AI-powered fashion shopping platform built across a 210-hour hack window. Combines a Groq-based AI recommendation assistant, Firebase authentication, virtual try-on, and native crypto checkout via Web3Modal/Wagmi with Base Sepolia support for on-chain payments and NFT collectibles. Built on Next.js, TypeScript, Material UI, and MongoDB, with product/session data in Firestore.
+[Devfolio](https://devfolio.co/projects/collie-30af) · [Live site](https://colliefit.vercel.app) · [Repository](https://github.com/STIWARTs/Collie)
+
 ### Navonmesh 3.0 — Participant
 SSIPMT Raipur, November 2025. WastiFY, a smart waste-management platform built for Raipur Municipal Corporation under the Swachh Bharat Mission, combining a citizen-facing portal — GPS-tagged waste reporting, municipal verification, and a reward-points/leaderboard system — with a working hardware prototype demonstrating IoT bin sensors and camera/robotic-arm-based waste sorting.
 
@@ -62,10 +66,6 @@ NGO Synergy, a crisis-response platform converting raw field reports — photos,
 GitHappens, a two-stage ensemble combining a 10-seed LightGBM model with a Seq2Seq Transformer for citywide traffic-demand forecasting at (geohash, 15-minute slot) granularity. Uses Bayesian-smoothed target encodings and heavy regularization to handle sparse, single-occurrence training cells, scoring 91.76/100 on the public leaderboard.
 [Repository](https://github.com/STIWARTs/GitHappens)
 
-### HACKHAZARDS '25 (The NAMESPACE Community) — Top 100 of 2,100+ teams
-Collie, an AI-powered fashion shopping platform built across a 210-hour hack window. Combines a Groq-based AI recommendation assistant, Firebase authentication, virtual try-on, and native crypto checkout via Web3Modal/Wagmi with Base Sepolia support for on-chain payments and NFT collectibles. Built on Next.js, TypeScript, Material UI, and MongoDB, with product/session data in Firestore.
-[Devfolio](https://devfolio.co/projects/collie-30af) · [Live site](https://colliefit.vercel.app) · [Repository](https://github.com/STIWARTs/Collie)
-
 ### World's Largest Hackathon presented by Bolt — Participant
 Dash & Draw, a real-time multiplayer drawing-and-guessing game inspired by Skribbl.io, built on the MERN stack with Socket.IO for live canvas sync. Supports lobby-based matchmaking, rotating drawer turns with word selection, real-time chat-based guessing, and live scoring across rounds.
 [Repository](https://github.com/STIWARTs/bolt.new) · [Live demo](https://dashndraw.netlify.app)
@@ -73,6 +73,29 @@ Dash & Draw, a real-time multiplayer drawing-and-guessing game inspired by Skrib
 ### HackIndia 2025 (Spark 4) — Participant
 CryptoCrafters, a decentralized NFT marketplace built on Ethereum with Solidity smart contracts and Hardhat for development and deployment. Supports minting NFTs with IPFS-stored metadata, buying and selling via ETH, and MetaMask wallet integration, with a dashboard for tracking owned and listed NFTs.
 [Repository](https://github.com/STIWARTs/HackIndia-Spark-4-2025-CryptoCrafters)
+
+### STATATHON 2025 — Participant (MoSPI × AICTE × Ministry of Education's Innovation Cell)
+Problem Statement 2 — Data Dissemination: "Create an API gateway to run SQL queries on the Survey Datasets and retrieve the results in a user-friendly form like JSON."
+
+Proposed solution: an API Gateway for MoSPI Microdata enabling instant, secure, query-based access, featuring:
+- Secure data retrieval with role-based access control
+- Instant query response via a dedicated query engine
+- Real-time analytics and interactive data visualization
+- Format-specific output with support for custom data input
+- Developer-friendly integration, architected around a Data Catalyst, API Gateway, Query Engine, and Visualization layer
+
+### AICTE Productization Fellowship (APF) 2025 — Participant
+Submitted an Idea/PoC to the AICTE Innovation Repository (Innovation ID: IR2025-974664) under the "Other Emerging Areas Innovation for Start-up" sector — an indigenous Battle Royale game concept focused on India-hosted infrastructure, data privacy, and performance optimization for mid-range devices, developed with a small team through concept, MVP scoping, and a full production/monetization roadmap.
+
+### PSBs Hackathon Series 2026 (IDEA 2.0, Ai-CSPARC) — Participant
+
+Awaaz — "Your Mother Tongue, Our Banking Language" — an end-to-end Speech-to-Reasoning-to-Speech (S2R2S) system built on the sovereign Sarvam AI stack, acting as a real-time digital interpreter and cognitive co-pilot for frontline bank staff:
+- **Acoustic Intelligence** — uses Saaras v3 streaming ASR to transcribe 22+ Indic languages, natively handling Indian code-mixed "Hinglish."
+- **Context-Aware Translation** — a Sarvam-105B LLM "Banking Brain" goes beyond literal translation, recognizing banking jargon, product names, and account types for accurate contextual meaning.
+- **Agentic Process Guiding** — identifies customer intent (e.g., a loan enquiry) in real time and dynamically guides staff through the required banking processes and checklists on-screen.
+- **Empathetic Synthesis & Auditing** — narrates the staff's response back to the customer via Bulbul v3 TTS in their native language, then auto-generates a structured bilingual summary for bank records.
+- **Dual-track AI backend** — combines system prompting for fast translation with Agentic RAG for real-time retrieval of factual bank policies, surfaced through a split-screen Linguistic Audit + Dynamic Guided Panel command center.
+- Built entirely on India's sovereign Sarvam AI infrastructure for full data residency and DPDP Act 2023 compliance.
 
 ### Smart India Hackathon — Participant, 2024 and 2025
 
@@ -221,6 +244,10 @@ Drone phase: covered the complete workflow of designing, building, and operating
 
 ### Hackathons and Competitive Programs
 
+- PSBs Hackathon Series 2026 (IDEA 2.0, Ai-CSPARC) — Union Bank of India & Department of Financial Services, Ministry of Finance, Government of India, 2026.
+- STATATHON 2025 — Ministry of Statistics and Programme Implementation (MoSPI), AICTE, and MIC, 2025.
+- Paranox 2.0 — TechXNinjas, August–November 2025.
+- AICTE Productization Fellowship (APF) 2025 — All India Council for Technical Education, 2025.
 - UIDAI Data Hackathon 2026 — Unique Identification Authority of India, April 2026.
 - Solution Challenge 2026 — Google for Developers, April 2026.
 - AI For Bharat — Hack2skill, March 2026.

@@ -274,6 +274,10 @@ Drone phase: covered the complete workflow of designing, building, and operating
 - Google for Education Certifications — August 2025.
 - NASA Space Apps Challenge 2024 — October 2024.
 
+### MORE
+- AI Fundamentals: Acquiring Data Level 1 — Accenture ASCEND
+- Digital Application Fundamentals in STEM — NASSCOM
+- UAV Navigation Bootcamp
 
 ## GitHub Activity <img width="37" src="https://komarev.com/ghpvc/?username=STIWARTs&style=flat&color=blue&label=" alt="Stiwart Profile Views Badge" align="center" />
 

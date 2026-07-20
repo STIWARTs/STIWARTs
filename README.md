@@ -301,7 +301,7 @@ Drone phase: covered the complete workflow of designing, building, and operating
 [![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stiwartsaxena@gmail.com)
 
 <br/>
-
+<img src="./assets/quotes1.gif" alt="Steve Jobs quote" width="500" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%" />

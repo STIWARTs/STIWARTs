@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header" width="100%" />
 
-<!-- <div align="center">
+<div align="center">
 
 ### Hey, I'm Stiwart!
 
@@ -119,7 +119,7 @@ Identified and demonstrated eight novel metadata-based attack vectors — termed
 ### SDE Intern — RootVestors
 December 2025 – June 2026 (Remote)
 
-Primary work is on **RootStudy (Superboard)**, RootVestors' AI-powered educational whiteboard platform connecting teachers, students, and learning resources into an interactive classroom system. The platform runs on PostgreSQL and pgvector for curriculum and resource search, MongoDB for application data, and integrates Gemini for lesson generation, PhET simulations, and Sarvam AI for voice transcription and playback.
+Primary work is on **Whiteboard**, RootVestors' AI-powered educational whiteboard platform connecting teachers, students, and learning resources into an interactive classroom system. The platform runs on PostgreSQL and pgvector for curriculum and resource search, MongoDB for application data, and integrates Gemini for lesson generation, PhET simulations, and Sarvam AI for voice transcription and playback and many more..
 
 Supporting tools and internal utilities built during the internship:
 
@@ -148,6 +148,16 @@ Supporting tools and internal utilities built during the internship:
 |---|---|
 | [coffee-dapp](https://github.com/STIWARTs/coffee-dapp) | A "buy me a coffee" decentralized application for on-chain tipping, deployed and verified on the Holesky testnet with a Hardhat and Solidity smart-contract backend. |
 
+### Android — [APPs](https://github.com/STIWARTs/APPs)
+ 
+A collection of small Android applications built while learning Android Studio.
+ 
+| Project | Description |
+|---|---|
+| [BMICalculator](https://github.com/STIWARTs/APPs/tree/main/BMICalculator) | Android app for calculating Body Mass Index. |
+| [InchesConverter](https://github.com/STIWARTs/APPs/tree/main/InchesConverter) | Android unit-conversion app for inches. |
+| [TheHungryDeveloper](https://github.com/STIWARTs/APPs/tree/main/TheHungryDeveloper) | Android app project built as part of the Android Studio learning series. |
+ 
 ---
 
 ## College Projects
@@ -264,7 +274,6 @@ Drone phase: covered the complete workflow of designing, building, and operating
 - Google for Education Certifications — August 2025.
 - NASA Space Apps Challenge 2024 — October 2024.
 
---- -->
 
 ## GitHub Activity <img width="37" src="https://komarev.com/ghpvc/?username=STIWARTs&style=flat&color=blue&label=" alt="Stiwart Profile Views Badge" align="center" />
 

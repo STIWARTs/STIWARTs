@@ -210,7 +210,7 @@ Recognized by the Google Cloud Security Community for active engagement — answ
 
 **Frontend** — React, Next.js, Tailwind CSS, Material UI, Redux
 
-**Cloud & DevOps** — Google Cloud Platform, Azure Machine Learning, Docker, GitHub Actions, CI/CD
+**Cloud & DevOps** — Google Cloud Platform, Azure, AWS, Docker, GitHub, CI/CD
 
 **AI & Machine Learning** — Generative AI, Google Gemini, Vertex AI, Model Context Protocol (MCP), RAG, AI Agents, Agentic AI, LangChain, PyTorch, Scikit-learn, llm, claude code
 

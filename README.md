@@ -6,7 +6,7 @@
 
 </div>
 
-I'm endlessly curious about how things work, and the best way I've found to actually understand something is to build it. That's led me through 18+ hackathons, work with startups, and certifications across AI, cloud, and full-stack development — each one adding another layer to how I think about solving problems. Scroll down for the full story!
+I'm endlessly curious about how things work, and the best way I've found to actually understand something is to build it. That's led me through 18+ hackathons, tech events, work with startups, and certifications across AI, cloud, and full-stack development — each one adding another layer to how I think about solving problems. Scroll down for the full story!
 
 ---
 

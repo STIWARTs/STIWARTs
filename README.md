@@ -1,24 +1,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header" width="100%" />
 
+<!--
+
 <div align="center">
-
+-->
 ### Hey, I'm Stiwart!
-
+<!--
 </div>
 
 I'm endlessly curious about how things work, and the best way I've found to actually understand something is to build it. That's led me through 18+ hackathons, tech events, work with startups, and certifications across AI, cloud, and full-stack development — each one adding another layer to how I think about solving problems. Scroll down for the full story!
 
 ---
 
-## Summary
 
+
+## Summary
+-->
 - B.Tech, Computer Science — Shri Shankaracharya Technical Campus, Bhilai (2023–2027)
 - SDE Intern — RootVestors (December 2025 – June 2026)
 - Winner — NASA International Space Apps Challenge (2025 & 2024), UIDAI Data Hackathon 2026, Hack-a-Sol 4.0 2025, HackBIOS 2025 (2nd Position), HACKHAZARDS '25 (Top 100)
 - Participated in 18+ hackathons and innovation programs
 - Author of a peer-reviewed paper on zero-trust middleware for AI tool-use security
 
-
+<!--
 ---
 
 ## Achievements
@@ -278,6 +282,8 @@ Drone phase: covered the complete workflow of designing, building, and operating
 - AI Fundamentals: Acquiring Data Level 1 — Accenture ASCEND
 - Digital Application Fundamentals in STEM — NASSCOM
 - UAV Navigation Bootcamp
+
+-->
 
 ## GitHub Activity <img width="37" src="https://komarev.com/ghpvc/?username=STIWARTs&style=flat&color=blue&label=" alt="Stiwart Profile Views Badge" align="center" />
 

@@ -12,9 +12,9 @@ I'm endlessly curious about how things work, and the best way I've found to actu
 
 ## Summary
 
-- B.Tech, Computer Science — Shri Shankaracharya Technical Campus, Bhilai (2023–2027)
+- B.Tech, Computer Science — SSTC, Bhilai (2023–2027)
 - SDE Intern — RootVestors (December 2025 – June 2026)
-- Winner — NASA International Space Apps Challenge (2025 & 2024), UIDAI Data Hackathon 2026, Hack-a-Sol 4.0 2025, HackBIOS 2025 (2nd Position), HACKHAZARDS '25 (Top 100)
+- Winner — NASA International Space Apps Challenge (2025 & 2024), UIDAI Data Hackathon 2026, Hack-a-Sol 4.0 2025, HackBIOS 2025, HACKHAZARDS '25 (Top 100)
 - Participated in 18+ hackathons and innovation programs
 - Author of a peer-reviewed paper on zero-trust middleware for AI tool-use security
 
